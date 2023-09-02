@@ -1,0 +1,1 @@
+# MVTec-SAM-Validation
